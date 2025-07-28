@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691285966063",
+    "project_id": "chattest-ed861",
+    "storage_bucket": "chattest-ed861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691285966063:android:64d96c1f68240e64592f1a",
+        "android_client_info": {
+          "package_name": "com.example.chatbox_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRb2faR--p8R7_rYEi3nHALKOxR34Pl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
